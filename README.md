@@ -1,7 +1,13 @@
 <div align="center">
 
+  <!-- Banner Invernadero de Rosas -->
+  <img src="https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?q=80&w=1200&auto=format&fit=crop" alt="Invernadero Florícola Bloom Soft" width="100%" height="260" style="object-fit: cover; border-radius: 10px;" />
+
+  <br/><br/>
+
   <img src="https://img.shields.io/badge/PUCE-Facultad%20de%20H%C3%A1bitat%2C%20Infraestructura%20y%20Movilidad-blue?style=for-the-badge&logo=education" alt="PUCE Badge">
   <img src="https://img.shields.io/badge/Curso-Fundamentos%20de%20SI-green?style=for-the-badge" alt="Curso Badge">
+  <img src="https://img.shields.io/badge/Industry-Floriculture%20Ecuador-2B9348?style=for-the-badge&logo=leaf&logoColor=white" alt="Ecuador Badge">
   
   <br/><br/>
 
@@ -12,7 +18,7 @@
     <b>Transformando la gestión agronómica en invernaderos mediante trazabilidad operativa y analítica gerencial en tiempo real.</b>
   </p>
 
-  [![License: MIT](https.img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![Status](https://img.shields.io/badge/Estado-En%20Desarrollo-orange.svg)]()
   [![Plataforma](https://img.shields.io/badge/Plataforma-Web%20%7C%20Mobile-brightgreen.svg)]()
 
@@ -117,3 +123,5 @@ Desarrollado con dedicación por los estudiantes de la PUCE:
 <div align="center">
   <sub>Desarrollado para la optimización de la industria florícola ecuatoriana 🌸🇪🇨</sub>
 </div>
+
+La producción florícola enfrenta importantes desafíos de eficiencia debido a procesos analógicos tradicionales:
